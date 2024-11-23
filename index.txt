@@ -1,1 +1,3 @@
-Corrigindo bug deste arquivo
+Linha do tempo
+
+Corrigido bug da versão v2
